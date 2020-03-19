@@ -1,6 +1,8 @@
 # Open-VPN
 copied from
 
+https://github.com/Nyr/openvpn-install
+
 https://raw.githubusercontent.com/Nyr/openvpn-install/master/openvpn-install.sh
 
 if exists install with:
